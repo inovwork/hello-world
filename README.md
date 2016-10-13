@@ -3,7 +3,7 @@ first repository
 
 hello
 
-just got home from work. making my first entry
+if you are viewing this feel free to add content. i'm trying to learn anything related to code of software development in general.
 
 <!DOCTYPE html>
 <html>
@@ -13,7 +13,7 @@ just got home from work. making my first entry
 </head>
 
 <body>
-<p></p>
+<p>Paragraph</p>
 </body>
 
 
